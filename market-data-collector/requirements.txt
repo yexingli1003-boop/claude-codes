@@ -1,0 +1,6 @@
+tvDatafeed @ git+https://github.com/rongardF/tvdatafeed.git
+pandas
+ta
+apscheduler
+flask
+pytz
